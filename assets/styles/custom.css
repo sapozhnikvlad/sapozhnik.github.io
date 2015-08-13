@@ -1,0 +1,190 @@
+#section-home h1,
+#section-home h2
+{
+	text-transform: none;
+	color: #eee;
+  font-weight: normal;
+}
+
+#section-home h1
+{
+  font-size: 40px;
+}
+
+#section-home h2
+{
+  margin-top: 10px;
+  font-size: 28px;
+}
+
+#section-home p
+{
+  font-family: 'PT Sans', sans-serif;
+}
+
+#section-home span
+{
+	font-size: 1.4em;
+}
+
+.about-page,
+.about-page .text-content
+{
+  text-align: center;
+}
+
+.about-page .certificates a
+{
+  margin: 0 1%;
+}
+
+.about-page .certificates a img
+{
+  height: 210px;
+}
+
+.text-content
+{
+	margin: 3em 10em 0;
+	text-align: left;
+	font-size: 1.1em;
+	line-height: 1.4em;
+}
+
+.content-wrap
+{
+	padding-top: 0px;
+}
+
+.section.splash-container
+{
+	margin-top: 0;
+	padding-top: 150px;
+	padding-bottom: 20px;
+  margin-bottom: 50px;
+	background-image: url(../images/trucks_bg-4.jpg);
+	background-repeat: no-repeat;
+  background-position: bottom center;
+  background-attachment: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  color: #fff;
+}
+
+.contacts-page,
+.top-margin-inner 
+{
+  margin-top: 150px;
+}
+
+.contacts-container
+{
+	padding: 0 15%;
+}
+
+.col_half,
+.col_one_third
+{
+	margin-right: 2%;
+}
+
+.contacts-container > div .feature-box
+{
+  height: 200px;
+}
+
+#header
+{
+	position: absolute;
+  top: 0;
+  z-index: 1000;
+  opacity: 0.8;
+  width: 100%;
+  height: 100px;
+}
+
+#section-contact:after,
+#section-features:after
+{
+	border: 0;
+}
+
+#section-features
+{
+  margin-bottom: 100px;
+}
+
+#section-features ul
+{
+	padding-left: 50px;
+  line-height: 2em;
+}
+
+#section-features .button
+{
+  margin-top: 30px;
+}
+
+#section-features .feature-item
+{
+  text-align: left;
+  padding: 0 4%;
+  margin-bottom: 0;
+}
+
+#section-features .feature-item h3
+{
+  font-size: 1em;
+  padding-left: 0;
+}
+
+#section-features .section-features-container
+{
+  margin: 0 5%;
+}
+
+#section-features footer
+{
+  text-align: center;
+}
+
+#section-home a.button
+{
+  margin-top: 40px;
+}
+
+#logo a
+{
+	line-height: 100px;
+	color: #666;
+}
+
+.sticky-header #logo a
+{
+	line-height: 60px;
+}
+
+h2.section-title
+{
+  margin-bottom: 50px;
+}
+
+#services-page .services-sidebar ul
+{
+  list-style: none;
+  font-size: 1.2em;
+  line-height: 2em;
+}
+
+#services-page .text
+{
+  font-size: 1.1em;
+}
+
+#services-page .text ul
+{
+  line-height: 1.5em;
+  margin-left: 20px;
+}
